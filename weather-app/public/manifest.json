@@ -1,0 +1,15 @@
+{
+    "short_name":"weather app",
+    "name":"weather app pwa",
+    "icons":[
+        {
+            "src":"/images/logo.png",
+            "type":"image/png",
+            "sizes":"1024*1024"
+        }
+    ],
+    "start_url":".",
+    "display":"standalone",
+    "theme_color":"",
+    "background_color":"#fffffff"
+}
